@@ -1,14 +1,18 @@
 # scidata
-Research data sharing
 
-Wang, Z., Liu, R., Wang, F., & Tang, Y. (2022). Development of metro track geometry fault diagnosis convolutional neural network model based on car-body vibration data. *Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit*. https://doi.org/10.1177/09544097221080366
-
+**Research data sharing**
 
 The use of this dataset should follow the terms and conditions of the Creative Commons Attribution(CC-BY) license(http://creativecommons.org/licenses/by/4.0/).
 
-The authors' info:
 
-Zhipeng Wang 1, Rengkui Liu 2, Futian Wang 3, Yuanjie Tang 4
+## Related article
+
+Wang, Z., Liu, R., Wang, F., & Tang, Y. (2022). Development of Metro Track Geometry Fault Diagnosis Model Based on Car-body Vibration. *Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit*. https://doi.org/10.1177/09544097221080366
+
+
+## The authors' info
+
+Zhipeng Wang<sup>1</sup>, Rengkui Liu<sup>2</sup>, Futian Wang<sup>3</sup>, Yuanjie Tang<sup>4</sup>
 
 1 Ph.D. Candidate, School of Traffic and Transportation, Beijing Jiaotong University, Beijing, 100044, China. ORCID: https://orcid.org/0000-0002-9320-5747. Email: wangzhipeng2017@outlook.com
 
