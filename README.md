@@ -7,7 +7,9 @@ The use of this dataset should follow the terms and conditions of the Creative C
 
 ## Related article
 
-Wang, Z., Liu, R., Wang, F., & Tang, Y. (2022). Development of Metro Track Geometry Fault Diagnosis Model Based on Car-body Vibration. *Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit*. https://doi.org/10.1177/09544097221080366
+Wang, Z, Liu, R, Wang, F,Tang, Y. Development of Metro Track Geometry Fault Diagnosis Model Based on Car-body Vibration. *Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit*. 2022; 236(9):1135-1144. https://doi.org/10.1177/09544097221080366
+
+Wang Z, Liu R, Gao Y,Tang Y. Metro Track Geometry Defect Identification Model Based on Car-Body Vibration Data and Differentiable Architecture Search. *Applied Sciences*. 2023; 13(6):3457. https://doi.org/10.3390/app13063457
 
 
 ## The authors' info
