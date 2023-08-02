@@ -14,12 +14,15 @@ The use of this dataset should follow the terms and conditions of the Creative C
 
 ## The authors' info
 
-Zhipeng Wang<sup>1</sup>, Rengkui Liu<sup>2</sup>, Futian Wang<sup>3</sup>, Yuanjie Tang<sup>4</sup>
+Zhipeng Wang<sup>1</sup>, Rengkui Liu<sup>2</sup>, Futian Wang<sup>3</sup>, Yuanjie Tang<sup>4</sup>, Yi Gao<sup>5</sup>
 
-1 Ph.D. Candidate, School of Traffic and Transportation, Beijing Jiaotong University, Beijing, 100044, China. ORCID: https://orcid.org/0000-0002-9320-5747. Email: wangzhipeng2017@outlook.com
+1 Ph.D., Infrastructure Technology R&D Engineer, Research Institute of Technical Innovation, Beijing Mass Transit Railway Operation Co., Ltd. (Beijing Subway), Beijing, 100082, China. ORCID: https://orcid.org/0000-0002-9320-5747. Email: wangzhipeng2017@outlook.com
 
 2 Professor, School of Traffic and Transportation, Beijing Jiaotong University, Beijing, 100044, China
 
-3 Associate Professor, State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong University, Beijing, 100044, China
+3 Associate Professor, State Key Lab of Advanced Rail Autonomous Operation, Beijing Jiaotong University, Beijing, 100044, China
 
 4 Associate Professor, Key Laboratory of Transport Industry of Big Data Application Technologies for Comprehensive Transport, Beijing Jiaotong University, Beijing 100044, China. ORCID: https://orcid.org/0000-0002-3625-1333
+
+5 Ph.D. Candidate, State Key Lab of Advanced Rail Autonomous Operation, Beijing Jiaotong University, Beijing, 100044, China. ORCID: https://orcid.org/0000-0002-9320-5747. Email: wangzhipeng2017@outlook.com
+
